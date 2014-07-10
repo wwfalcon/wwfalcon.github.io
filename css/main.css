@@ -1,5 +1,6 @@
 body {
-	font-family: 'Gabriela', serif;
+	/*font-family: 'Gabriela', serif;*/
+	font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
 }
 .starter-template {
   padding: 40px 15px;
