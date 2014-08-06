@@ -1,5 +1,5 @@
 ---
-name: Color palette
+name: Color palette (is OK?)
 hidecode: true
 ---
 <ul class="palette">
