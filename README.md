@@ -15,3 +15,6 @@ Forked from
  * scrollSpy.js
  * tooltip.js
  * IconFinder ( Social icons by - [Mohamed A. Elgharabawy](http://itscoding.com) =&= user icon by - [Visual Pharm](http://icons8.com/) =&= GitHub icons by - Neil Hainsworth & Muhamad Ulum)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wwfalcon/wwfalcon.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
